@@ -7,8 +7,8 @@ Output of Application
 ![mad2](https://user-images.githubusercontent.com/110655668/187360921-30e00fac-9f51-47fd-ba85-bc24febc662e.png)
 
 TOAST MESSAGE
-![Toast_msg](https://user-images.githubusercontent.com/110655668/187362851-1019f2f6-ea77-4d9b-becb-b9c2447e2e53.png)
+![toast](https://user-images.githubusercontent.com/110655668/187364886-1896fdae-65a0-4a9f-aff3-137942ed78fd.png)
 
 SNACKBAR MESSAGE
-![Snackbar_msg](https://user-images.githubusercontent.com/110655668/187362899-1b7eb5cd-668b-442c-8cf1-a2841fcacd53.png)
+![Snackbar](https://user-images.githubusercontent.com/110655668/187364913-3496b378-3e1f-4264-b1ce-f0cffbe482c5.png)
 
